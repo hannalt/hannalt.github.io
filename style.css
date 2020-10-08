@@ -583,6 +583,9 @@ li {
     #counters .counter {
         font-size: 3rem;
     }
+    .parallax {
+        height: 0px;
+    }
 
 }
 /* Media Query for Tablet */
@@ -628,6 +631,9 @@ li {
     }
     #counters .counter {
         font-size: 4rem;
+    }
+    .parallax {
+        height: 300px;
     }
 
 
