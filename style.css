@@ -580,6 +580,9 @@ li {
     #experience .experience-item{
         height: 100%;
     }
+    #counters .counter {
+        font-size: 3rem;
+    }
 
 }
 /* Media Query for Tablet */
@@ -623,6 +626,9 @@ li {
     #about .col-right h1 {
         text-align: left;
     }
+    #counters .counter {
+        font-size: 4rem;
+    }
 
 
 }
@@ -639,6 +645,9 @@ li {
     }
     #experience .experience-item {
         height: 250px;
+    }
+    #counters .counter {
+        font-size: 5rem;
     }
 	#header .nav-list ul {
 		position: initial;
