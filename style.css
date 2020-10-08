@@ -575,7 +575,7 @@ li {
         height: 250px;
     }
     #experience .experience-item{
-        height: 300px;
+        height: 350px;
     }
 
 }
@@ -633,6 +633,9 @@ li {
     }
     #service .experience-item {
         height: 175px;
+    }
+    #experience .experience-item {
+        height: 250px;
     }
 	#header .nav-list ul {
 		position: initial;
