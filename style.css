@@ -407,11 +407,11 @@ li {
     margin: 10px 5%;
 }
 #experience .experience-item{
-    height: 350px;
+    height: 100%;
 }
 
 #service .experience-item{
-    height: 250px;
+    height: 100%;
 }
 #service .subtitle {
     padding: 15px;
