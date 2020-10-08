@@ -569,6 +569,18 @@ li {
     }
 }
 /* End of key frames */
+
+@media only screen and (min-width: 500px) {
+    
+    #service .experience-item {
+        height: 250px;
+    }
+    #experience .experience-item{
+        height: 400px;
+    }
+
+}
+
 @media only screen and (min-width: 0px) {
     
     #service .experience-item {
