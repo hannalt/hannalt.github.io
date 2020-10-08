@@ -570,13 +570,13 @@ li {
 }
 /* End of key frames */
 
-@media only screen and (min-width: 500px) {
+@media only screen and (min-width: 200px) {
     
     #service .experience-item {
-        height: 250px;
+        height: 300px;
     }
     #experience .experience-item{
-        height: 400px;
+        height: 10000px;
     }
 
 }
